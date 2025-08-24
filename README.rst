@@ -1,4 +1,7 @@
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/vietle2201/what-happens-when) 
+|Ask DeepWiki|
+
+.. |Ask DeepWiki| image:: https://deepwiki.com/badge.svg
+   :target: https://deepwiki.com/vietle2201/what-happens-when
 ====================
 What happens when...
 ====================
